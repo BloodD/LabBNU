@@ -11,7 +11,7 @@ import numpy as np
 import scipy as sp
 import pylab as pl
 import pdb 
-#sys.path.remove('/usr/local/neurosoft/epd-7.2.1/lib/python2.7/site-packages/nibabel-1.3.0-py2.7.egg')
+
 import matplotlib.cm as cm
 import matplotlib.mlab as mlab
 import matplotlib.pyplot as plt
