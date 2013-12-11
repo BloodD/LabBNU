@@ -1,7 +1,7 @@
 LabBNU
 ======
 
-This repo contains code utilities when I am working at BNU lab.
+This repo contains code utilities when I work at BNU lab.
 
 Relative work:
 --------------
@@ -10,3 +10,9 @@ Relative work:
 3. Brain region Clustering and classification using machine learning algorithm e.g. Spectral clustering
 4. Text analysis using Topic modeling  (refer to  pytm repo)
 
+
+
+
+
+2013.12.11
+不积跬步无以至千里,不积小流无以成江海
