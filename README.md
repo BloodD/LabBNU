@@ -14,6 +14,7 @@ Relative work:
 Gallery:
 
 ![DTI_Fiber](./brain_network_analysis/figures/dtitrack_heyong.png)
+![DTI_Fiber](./brain_network_analysis/figures/wm_reg_node_mask.PNG)
 ![Network](./brain_network_analysis/figures/fc1000_network_sys.png)
 
 2013.12.11
