@@ -13,8 +13,8 @@ Relative work:
 
 Gallery:
 
-[!network](brain_network_analysis/figures/dtitrack_heyong.png)
-
+![DTI_Fiber](./brain_network_analysis/figures/dtitrack_heyong.png)
+![Network](./brain_network_analysis/figures/fc1000_network_sys.png)
 
 2013.12.11
 不积跬步无以至千里,不积小流无以成江海
