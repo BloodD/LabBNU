@@ -11,7 +11,9 @@ Relative work:
 4. Text analysis using Topic modeling  (refer to  pytm repo)
 
 
+Gallery:
 
+[!network](brain_network_analysis/figures/dtitrack_heyong.png)
 
 
 2013.12.11
